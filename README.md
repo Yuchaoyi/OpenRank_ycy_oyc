@@ -1,0 +1,2 @@
+# OpenRank_ycy_oyc
+用于OpenRank大赛诚毅满满小组作品的提交
