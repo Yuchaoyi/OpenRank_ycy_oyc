@@ -1,0 +1,4 @@
+main.py:项目主函数
+db.py:与数据库操作相关的代码
+sum_code.py:数据预处理和critic算法相关代码
+func.py:其他功能性函数代码
